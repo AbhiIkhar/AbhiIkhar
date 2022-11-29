@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**AbhiIkhar/AbhiIkhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hello, I am Abhishek Ikhar A Computer Science Student at VIT Pune . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Programming Languages 
+C++ , Java , HTML, CSS, Javascript and SQL 
+## 🛠 Frameworks
+Flutter 
+
+
+
+## 🔗 Social Media Handles
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-ikhar-668692206/)
+
