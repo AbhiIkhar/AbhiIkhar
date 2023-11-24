@@ -4,13 +4,9 @@ Hello, I am Abhishek Ikhar A Computer Science Student at VIT Pune . My passion f
 
 
 ## 🛠 Programming Languages 
-C, C++ , Python , Java , Javascript, SQL and Solidity . 
+C, C++ , Python , Java , Javascript and SQL . 
 ## 🛠 Frameworks/Technologies
-- Flutter
-- Ether.js
-- Blockchain Development
-- Unity Development
-- Backend Development (Express js)
+- Backend Development (Nodejs and Express js)
 
 ## Databases 
 - MongoDB
