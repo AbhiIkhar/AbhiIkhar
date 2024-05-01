@@ -23,7 +23,7 @@ I'm a Backend Software Developer at Syngenta, passionate about crafting efficien
 
 ## 📈 GitHub Stats:
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiIkhar&layout=compact)
 
 ## 🔥 My LeetCode Profile:
 
