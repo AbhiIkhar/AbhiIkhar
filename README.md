@@ -1,20 +1,40 @@
+# Hi there! 👋 I'm Abhishek
 
-## 🚀 About Me
-Hello, I am Abhishek Ikhar A Computer Science Student at VIT Pune . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a Backend Software Developer at Syngenta, passionate about crafting efficient and scalable solutions. I enjoy working with a variety of technologies including C++, Java, Python, Spring Boot, React.js, and more.
 
+## 🚀 Technologies I Work With:
 
-## 🛠 Programming Languages 
-C, C++ , Javascript, Python, Java  and SQL . 
-## 🛠 Frameworks/Technologies
-- Reactjs 
-- Nodejs and Express js
+### Programming Languages:
+- C++
+- Java
+- Python
 
-## Databases 
+### Databases:
+- PostgreSQL
 - MongoDB
-- MYSQL
-- Firebase
+- MySQL
 
+### Frameworks & Libraries:
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- React.js
 
-## 🔗 Social Media Handles
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-ikhar-668692206/)
+## 📈 GitHub Stats:
 
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiIkhar&show_icons=true&theme=radical)
+
+## 🔥 My LeetCode Profile:
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-ikharabhishek-brightgreen)](https://leetcode.com/u/ikharabhishek/)
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Ikhar-blue)](https://www.linkedin.com/in/abhishek-ikhar/)
+
+## ✨ Extra Information About Me:
+
+- I love solving algorithmic challenges on platforms like LeetCode to sharpen my problem-solving skills.
+- In my free time, I enjoy exploring new technologies and contributing to open-source projects.
+- Feel free to reach out to me for collaboration opportunities or just to say hi!
