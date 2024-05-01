@@ -21,9 +21,17 @@ I'm a Backend Software Developer at Syngenta, passionate about crafting efficien
 ![Hibernate](https://img.shields.io/badge/Hibernate-blue?logo=hibernate)
 ![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
 
+## 📊 GitHub Contributions & Streak:
+
+![Abhishek's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AbhiIkhar)
+
+<!-- If you want to show the total contributions, you can use the following link -->
+<!-- ![Abhishek's Total GitHub Contributions](https://github-readme-stats.vercel.app/api/?username=AbhiIkhar&show_icons=true&theme=radical) -->
+
+
 ## 📈 GitHub Stats:
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiIkhar&layout=compact)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiIkhar&show_icons=true&theme=radical&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiIkhar&layout=compact)
 
 ## 🔥 My LeetCode Profile:
 
