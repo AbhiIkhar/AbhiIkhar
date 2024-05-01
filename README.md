@@ -5,21 +5,25 @@ I'm a Backend Software Developer at Syngenta, passionate about crafting efficien
 ## 🚀 Technologies I Work With:
 
 ### Programming Languages:
-- C++
-- Java
-- Python
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 
 ### Databases:
-- PostgreSQL
-- MongoDB
-- MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 ### Frameworks & Libraries:
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- React.js
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-lightgreen?logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-green?logo=spring)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-yellowgreen?logo=spring)
+![Hibernate](https://img.shields.io/badge/Hibernate-blue?logo=hibernate)
+![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
+
+## 📊 Most Used Programming Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiIkhar&layout=compact)
 
 ## 📈 GitHub Stats:
 
