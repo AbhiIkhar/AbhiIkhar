@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abhishek
 
-I'm a Backend Software Developer at Syngenta, passionate about crafting efficient and scalable solutions. I enjoy working with a variety of technologies including C++, Java, Python, Spring Boot, React.js, and more.
+I'm working as Backend Software Developer Intern at Syngenta, passionate about crafting efficient and scalable solutions. I enjoy working with a variety of technologies including C++, Java, Python, Spring Boot, React.js, and more.
 
 ## 🚀 Technologies I Work With:
 
