@@ -8,7 +8,7 @@ I'm working as Backend Software Developer Intern at Syngenta, passionate about c
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![Javascript](https://img.shields.io/badge/Python-yellow?logo=javascript)
+![Javascript](https://img.shields.io/badge/Javascript-red?logo=javascript)
 
 ### Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
