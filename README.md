@@ -45,5 +45,5 @@ I'm working as Backend Software Developer Intern at Syngenta, passionate about c
 ## ✨ Extra Information About Me:
 
 - I love solving algorithmic challenges on platforms like LeetCode to sharpen my problem-solving skills.
-- In my free time, I enjoy exploring new technologies and contributing to open-source projects.
 - Feel free to reach out to me for collaboration opportunities or just to say hi!
+-  In my free time, I enjoy exploring new technologies and contributing to open-source projects.
