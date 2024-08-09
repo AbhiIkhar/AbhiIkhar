@@ -30,10 +30,6 @@ I'm working as Backend Software Developer Intern at Syngenta, passionate about c
 <!-- ![Abhishek's Total GitHub Contributions](https://github-readme-stats.vercel.app/api/?username=AbhiIkhar&show_icons=true&theme=radical) -->
 
 
-## 📈 GitHub Stats:
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiIkhar&show_icons=true&theme=radical&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiIkhar&layout=compact)
-
 ## 🔥 My LeetCode Profile:
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-ikharabhishek-brightgreen)](https://leetcode.com/u/ikharabhishek/)
