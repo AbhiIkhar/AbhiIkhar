@@ -22,13 +22,6 @@ I'm working as Backend Software Developer Intern at Syngenta, passionate about c
 ![Hibernate](https://img.shields.io/badge/Hibernate-blue?logo=hibernate)
 ![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
 
-## 📊 GitHub Contributions & Streak:
-
-![Abhishek's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AbhiIkhar)
-
-<!-- If you want to show the total contributions, you can use the following link -->
-<!-- ![Abhishek's Total GitHub Contributions](https://github-readme-stats.vercel.app/api/?username=AbhiIkhar&show_icons=true&theme=radical) -->
-
 
 ## 🔥 My LeetCode Profile:
 
