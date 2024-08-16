@@ -1,38 +1,24 @@
-# Hi there! 👋 I'm Abhishek
+Hi there! 👋 I'm Abhishek
+I’m a dedicated Software Developer with a strong interest in both backend and frontend technologies. My journey in tech has been all about learning, growing, and continuously improving the systems I build.
 
-I'm working as Backend Software Developer Intern at Syngenta, passionate about crafting efficient and scalable solutions. I enjoy working with a variety of technologies including C++, Java, Python, Spring Boot, React.js, and more.
+🚀 Professional Experience
+Software Developer Intern at Syngenta
+Contributed to the development and maintenance of scalable microservices using Java 8+ and Spring Boot.
+Adhered to Object-Oriented SOLID principles to ensure high-quality code.
+Achieved over 90% code coverage through rigorous testing, ensuring reliability and performance.
+Leveraged Spring Security and Spring Data JPA for enhanced application security and efficient data management.
+🛠️ Core Competencies
+Programming Languages: C++, JavaScript, Java, SQL
+Tools/Frameworks: React.js, Redux Toolkit, Spring Boot, Git/GitHub
+Coursework Expertise: Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Computer Networks
+🏆 Achievements
+IEEE Ingenuity Ideathon Winner: Recognized for innovative problem-solving and technical skills.
+Published Research: Co-authored a paper on ‘metaAR– Augmented Reality/XR Shopping App using Unity,’ presented at an IEEE Scopus Conference.
+🌱 What I'm Up To
+I’m always curious to explore new ideas, take on new challenges, and learn something new every day.
 
-## 🚀 Technologies I Work With:
+🤝 Let's Connect
+If you share a love for tech and continuous learning, feel free to explore my repositories and contribute to any projects that catch your eye. Let’s collaborate and build something awesome together!
 
-### Programming Languages:
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![Javascript](https://img.shields.io/badge/Javascript-red?logo=javascript)
-
-### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-
-### Frameworks & Libraries:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-lightgreen?logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-green?logo=spring)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-yellowgreen?logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-blue?logo=hibernate)
-![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
-
-
-## 🔥 My LeetCode Profile:
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-ikharabhishek-brightgreen)](https://leetcode.com/u/ikharabhishek/)
-
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Ikhar-blue)](https://www.linkedin.com/in/abhishek-ikhar/)
-
-## ✨ Extra Information About Me:
-
-- I love solving algorithmic challenges on platforms like LeetCode to sharpen my problem-solving skills.
-- Feel free to reach out to me for collaboration opportunities or just to say hi!
--  In my free time, I enjoy exploring new technologies and contributing to open-source projects.
+LinkedIn: Your LinkedIn Profile
+Email: ikharabhishek177@gmail.com
