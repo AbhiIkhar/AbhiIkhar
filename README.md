@@ -4,7 +4,8 @@ Hi there! I’m a dedicated Software Developer who enjoys working with both back
 
 # Professional Experience:
 ## Software Developer Intern at Syngenta:
-Played a key role in developing and maintaining scalable microservices using Java 8+ and Spring Boot. My work involved adhering to Object-Oriented SOLID principles, ensuring high code quality with over 80% + coverage, and utilizing Spring technologies for enhanced application security and data management.
+ - Played a key role in developing and maintaining scalable microservices using Java 8+ and Spring Boot.
+ - My work involved adhering to Object-Oriented SOLID principles, ensuring high code quality with over 80% + coverage, and utilizing Spring technologies for enhanced application security and data management.
 
 ## 🚀 Technologies I Work With:
 
@@ -26,11 +27,16 @@ Played a key role in developing and maintaining scalable microservices using Jav
 ![Hibernate](https://img.shields.io/badge/Hibernate-blue?logo=hibernate)
 ![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
 
-## Coursework Expertise: Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Computer Networks
+## Coursework Expertise: 
+ - Data Structures and Algorithms.
+ -  Object-Oriented Programming.
+ -  Operating Systems.
+ -  DBMS
+ -  Computer Networks
 
 ## 🔥 My LeetCode Profile:
 
-[![LeetCode Profile]([https://img.shields.io/badge/LeetCode-ikharabhishek-brightgreen](https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256))](https://leetcode.com/u/ikharabhishek/)
+[![LeetCode Profile]([https://img.shields.io/badge/LeetCode-ikharabhishek-brightgreen])](https://leetcode.com/u/ikharabhishek/)
 
 ## 🌐 Connect with Me:
 
