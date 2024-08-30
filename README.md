@@ -4,8 +4,12 @@ Hi there! I’m a dedicated Software Developer who enjoys working with both back
 
 # Professional Experience:
 ## Software Developer Intern at Syngenta:
- - Played a key role in developing and maintaining scalable microservices using Java 8+ and Spring Boot.
- - My work involved adhering to Object-Oriented SOLID principles, ensuring high code quality with over 80% + coverage, and utilizing Spring technologies for enhanced application security and data management.
+ - Geo Hierarchy Platform Service reduced internal geo data discrepancies by 90%, ensuring that all internal
+processes rely on consistent and accurate data.
+ - Streamlined geo data management across the three applications, reducing the need for manual corrections and
+updates by 50%.
+ - Achieved over 90% code coverage through rigorous integration testing, ensuring high reliability and
+performance.
 
 ## 🚀 Technologies I Work With:
 
@@ -21,11 +25,9 @@ Hi there! I’m a dedicated Software Developer who enjoys working with both back
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 ### Frameworks & Libraries:
+![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-lightgreen?logo=springboot)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-green?logo=spring)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-yellowgreen?logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-blue?logo=hibernate)
-![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
 
 ## Coursework Expertise: 
  - Data Structures and Algorithms.
