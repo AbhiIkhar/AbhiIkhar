@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abhishek
 
-Hi there! I’m a curious Software Developer who explore both backend and frontend technologies. I find my interest in Frontend.  My journey in tech has been all about learning and growing, and I’m always curious to explore new ideas and improve the systems I build.
+Hi there! I’m a Software Developer who enjoys exploring both backend and frontend technologies, with a special interest in frontend. My journey in tech is all about learning, growing, and improving the systems I build. I’m always curious to explore new ideas and make things better.
 
 # Professional Experience:
 ## Software Developer Intern at Syngenta:
