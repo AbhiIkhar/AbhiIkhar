@@ -38,7 +38,7 @@ performance.
 
 ## 🔥 My LeetCode Profile:
 
-[![LeetCode Profile](https://img.shields.io/badge/Leetcode)](https://leetcode.com/u/ikharabhishek/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/ikharabhishek/)
 
 ## 🌐 Connect with Me:
 
