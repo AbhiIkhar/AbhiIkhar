@@ -52,7 +52,7 @@ Microservices · System Design · AWS · AI/LLM · RAG
 ## 💼 Professional Experience
 
 ### Associate Developer — Capita
-
+Nov 2024 – Present
 * Worked on enterprise software applications supporting pension administration
 * Developed and maintained application logic and database-driven functionality
 * Worked with **Progress 4GL, SQL, Linux/Unix** and enterprise systems
@@ -62,7 +62,7 @@ Microservices · System Design · AWS · AI/LLM · RAG
 * Applied **SOLID principles and design patterns** to improve code maintainability
 
 ### Software Developer Intern — Syngenta
-
+Jan 2024 – July 2024
 * Developed software services using **Java, Spring Boot, Spring Security, Spring Data JPA and databases**
 * Built REST APIs for a Geo Hierarchy Platform
 * Reduced data discrepancies by **90%**
